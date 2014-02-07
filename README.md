@@ -1,1 +1,5 @@
-so it begins
+By my judgement, I've correctly implemented all aspects of the assignment. All files are properly named and exist in the properly named repository. All webpages and css files are valid. The css file has five rules. I was concious of committing frequently and providing meaningful messages when pushing. The index.html page hosted in my Tufts CS account redirects as it should.
+
+I did not collaborate with anyone on this project, nor did I discuss with anyone. I should acknowledge that I referenced the examples in the course website frequently, and I used firebug to examine Ming's website's code so as to learn proper syntax, convention, etc. I also read stackoverflow pages for help.
+
+I spent about six hours working straight, but the first three were slow going and were mostly devoted to learning the nuances of git. The second three hours were fast-paced.
