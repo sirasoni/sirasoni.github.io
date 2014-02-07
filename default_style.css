@@ -3,3 +3,8 @@ img {
 	width: 272px;
 	height: 200px;
 }
+
+body {
+	font-size: 14px;
+	font-family: Helvetica;
+}
