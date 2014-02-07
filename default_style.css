@@ -15,5 +15,10 @@ html {
 }
 
 h4 {
-	font-size: 16px;
+	font-size: 12px;
+}
+
+#index_content {
+	width: 900px;
+	margin: 0 auto;
 }
