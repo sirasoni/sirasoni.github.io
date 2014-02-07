@@ -8,3 +8,7 @@ body {
 	font-size: 14px;
 	font-family: Georgia, serif;
 }
+
+html, body{
+    background-color: #FF0000;
+}
